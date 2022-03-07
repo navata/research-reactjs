@@ -1,6 +1,5 @@
 import React from 'react'
 import styles from "./text.module.scss";
-const ab = 'ab';
 
 const Text = () => {
   return (
